@@ -1,0 +1,12 @@
+cmajor,c3-e3-f3
+fmajor,f3-a3-c4-e4
+james1,c3 a2 a2[4] a2[6]
+cmajorscale,c3 d3 e3 f3 g3 a3 b3 c4
+c,c3 d3 e3 f3 g3 a3 b3 c4
+c3,a6
+test!,a4
+c,a2 a2 a1 a1
+c,a1 a1
+add,$james
+james,c3
+jame,c4

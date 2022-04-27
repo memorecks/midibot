@@ -1,0 +1,879 @@
+04/15/22:16:26:12, Log, @System, MidiBot initated
+04/15/22:16:26:12, Log, @System, Settings files loaded successfully
+04/15/22:16:32:46, Log, @System, MidiBot initated
+04/15/22:16:32:46, Log, @System, Settings files loaded successfully
+04/15/22:16:33:45, Log, @System, MidiBot initated
+04/15/22:16:33:45, Log, @System, Settings files loaded successfully
+04/15/22:16:34:59, Log, @System, MidiBot initated
+04/15/22:16:34:59, Log, @System, Settings files loaded successfully
+04/15/22:16:38:05, Command, default_user, !res
+04/15/22:16:38:20, Log, @System, MidiBot initated
+04/15/22:16:38:20, Log, @System, Settings files loaded successfully
+04/15/22:16:38:25, Command, default_user, !res 100
+04/15/22:16:38:28, Command, default_user, !res loop 0 100
+04/15/22:16:38:32, Command, default_user, !res -1
+04/15/22:16:38:34, Command, default_user, !res
+04/15/22:16:41:30, Log, @System, MidiBot initated
+04/15/22:16:41:30, Log, @System, Settings files loaded successfully
+04/15/22:16:41:32, Command, default_user, !res
+04/15/22:16:41:34, Command, default_user, !cutoff
+04/15/22:16:41:55, Command, default_user, !res loop 0
+04/15/22:16:42:02, Command, default_user, !res loop text
+04/15/22:16:42:08, Command, default_user, !res loop 0
+04/15/22:16:42:11, Command, default_user, !res loop 0 100
+04/15/22:16:42:13, Command, default_user, !reset
+04/15/22:16:42:14, Command, default_user, !clear
+04/15/22:16:42:16, Command, default_user, !bpm
+04/15/22:16:43:48, Log, @System, MidiBot initated
+04/15/22:16:43:48, Log, @System, Settings files loaded successfully
+04/15/22:16:43:49, Command, default_user, !res
+04/15/22:16:43:51, Command, default_user, !
+04/15/22:16:43:54, Command, default_user, !sadfsad
+04/15/22:16:43:58, Command, default_user, !res 100
+04/15/22:16:44:01, Command, default_user, !res loop 0 100
+04/15/22:16:44:05, Command, default_user, !res loop 0 4
+04/15/22:16:44:07, Command, default_user, !res loop 5 100
+04/15/22:16:44:09, Command, default_user, !bpm 600
+04/15/22:16:44:11, Command, default_user, !bpm 500
+04/15/22:16:44:14, Command, default_user, !reset
+04/15/22:16:44:15, Command, default_user, !reset
+04/15/22:16:44:19, Command, default_user, !add synth
+04/15/22:16:44:25, Command, default_user, !add synth c3-
+04/15/22:16:44:34, Command, default_user, !add synth c3-a9[0-1]
+04/15/22:16:44:49, Command, default_user, !add synth c3-a3-f3[4] f3-f4-g2-c#2[999]
+04/15/22:16:44:53, Command, default_user, !reset
+04/16/22:10:35:05, Log, @System, MidiBot initated
+04/16/22:10:35:05, Log, @System, Settings files loaded successfully
+04/16/22:10:35:15, Command, default_user, !res
+04/16/22:10:35:17, Command, default_user, !synth
+04/16/22:10:35:18, Command, default_user, !add
+04/16/22:10:38:28, Log, @System, MidiBot initated
+04/16/22:10:38:28, Log, @System, Settings files loaded successfully
+04/16/22:10:38:30, Command, default_user, !add
+04/16/22:10:39:50, Command, default_user, !choice
+04/16/22:10:40:18, Command, default_user, !add synth c
+04/16/22:10:40:31, Command, default_user, !add synth c d e f g
+04/16/22:10:40:33, Command, default_user, !add synth sdf
+04/16/22:10:41:33, Command, default_user, !reset
+04/16/22:10:41:40, Command, default_user, !rand synth c c8
+04/16/22:10:42:00, Command, default_user, !rand synth c[1] c8[4]
+04/16/22:10:42:03, Command, default_user, !reset
+04/16/22:10:42:18, Command, default_user, !rand synth c[0.1] c7 c6[7]
+04/16/22:10:42:42, Command, default_user, !res
+04/16/22:10:42:43, Command, default_user, !res 100
+04/16/22:10:42:46, Command, default_user, !res loop 0 100
+04/16/22:10:42:49, Command, default_user, !bpm 900
+04/16/22:10:42:51, Command, default_user, !bpm 500
+04/16/22:10:44:47, Command, default_user, !stop
+04/16/22:10:44:49, Command, default_user, !start
+04/16/22:10:44:50, Command, default_user, !clear
+04/16/22:10:44:51, Command, default_user, !reset
+04/16/22:10:44:56, Command, default_user, !add synth c[1]
+04/16/22:10:45:16, Command, default_user, !bpm 500
+04/16/22:10:45:18, Command, default_user, !reset
+04/16/22:10:45:20, Command, default_user, !add synth c
+04/16/22:10:45:23, Command, default_user, !reset
+04/16/22:10:54:16, Log, @System, MidiBot initated
+04/16/22:10:54:16, Log, @System, Settings files loaded successfully
+04/16/22:10:54:31, Command, default_user, !add synth a2-c3-e3[4] g2-a2-c3[4]
+04/16/22:10:55:15, Command, default_user, !choice synth d3 e3 f3 g4 a4
+04/16/22:10:56:06, Command, default_user, !reset
+04/16/22:10:56:56, Command, default_user, !add drums c1
+04/16/22:10:56:58, Command, default_user, !reset
+04/16/22:10:57:13, Command, default_user, !add drums c1
+04/16/22:10:57:59, Command, default_user, !add synth c3-e3-f3-a3[4] rest[2] f3-a3-c3-e4[1] f3-a3-c3-d4[1]
+04/16/22:10:58:39, Command, default_user, !add drums rest[1] d1[1]
+04/16/22:10:59:03, Command, default_user, !add synth a1 a1 a1 a1 f1 f1 f1 f1
+04/16/22:11:02:15, Command, default_user, !bpm 175
+04/16/22:11:02:27, Command, default_user, !bpm 500
+04/16/22:11:02:39, Command, default_user, !reset
+04/16/22:11:20:18, Command, default_user, !rand synth c3 c4
+04/16/22:11:20:25, Command, default_user, !reset
+04/16/22:11:23:38, Log, @System, MidiBot initated
+04/16/22:11:23:38, Log, @System, Settings files loaded successfully
+04/16/22:11:23:41, Command, default_user, !res loop 0 100
+04/16/22:11:23:53, Log, @System, MidiBot initated
+04/16/22:11:23:53, Log, @System, Settings files loaded successfully
+04/16/22:11:23:56, Command, default_user, !res loop 0 100
+04/16/22:11:24:19, Log, @System, MidiBot initated
+04/16/22:11:24:19, Log, @System, Settings files loaded successfully
+04/16/22:11:25:14, Command, default_user, !res loop 0 100
+04/16/22:11:25:26, Log, @System, MidiBot initated
+04/16/22:11:25:26, Log, @System, Settings files loaded successfully
+04/16/22:11:25:29, Command, default_user, !res loop 0 100
+04/16/22:11:40:51, Log, @System, MidiBot initated
+04/16/22:11:40:51, Log, @System, Settings files loaded successfully
+04/16/22:17:12:02, Log, @System, MidiBot initated
+04/16/22:17:12:03, Log, @System, Settings files loaded successfully
+04/16/22:17:12:49, Log, @System, MidiBot initated
+04/16/22:17:12:49, Log, @System, Settings files loaded successfully
+04/16/22:17:12:52, Command, default_user, !res loop 0 100
+04/16/22:17:12:58, Command, default_user, !res loop 3 50
+04/16/22:17:14:31, Command, default_user, !dump
+04/16/22:17:22:53, Log, @System, MidiBot initated
+04/16/22:17:22:53, Log, @System, Settings files loaded successfully
+04/16/22:17:22:56, Command, default_user, !res loop 0 100
+04/16/22:17:22:59, Command, default_user, !res loop 4 50
+04/16/22:17:23:04, Command, default_user, !res loop 5 60
+04/16/22:17:23:33, Log, @System, MidiBot initated
+04/16/22:17:23:33, Log, @System, Settings files loaded successfully
+04/16/22:17:23:36, Command, default_user, !res loop 0 100
+04/16/22:17:23:40, Command, default_user, !res loop 4 40
+04/16/22:17:23:46, Command, default_user, !res loop 5 60
+04/16/22:17:23:51, Command, default_user, !reset
+04/16/22:17:23:55, Command, default_user, !res loop 0 100
+04/16/22:17:23:57, Command, default_user, !reset
+04/16/22:17:24:08, Command, default_user, !res 100
+04/16/22:17:24:20, Command, default_user, !res loop 0 100
+04/16/22:17:24:28, Command, default_user, !res loop 0 5
+04/16/22:17:24:42, Command, default_user, !reset
+04/16/22:17:24:44, Command, default_user, !res 0
+04/16/22:17:24:46, Command, default_user, !res 64
+04/16/22:17:24:49, Command, default_user, !res 65
+04/16/22:17:26:02, Log, @System, MidiBot initated
+04/16/22:17:26:02, Log, @System, Settings files loaded successfully
+04/16/22:17:26:06, Command, default_user, !res loop 0 100
+04/16/22:17:26:11, Command, default_user, !res loop 5 30
+04/16/22:17:26:21, Command, default_user, !res 50
+04/16/22:17:27:28, Command, default_user, !res 40
+04/16/22:17:27:32, Command, default_user, !res 127
+04/16/22:17:27:42, Command, default_user, !res loop 0[0.1] 127[4]
+04/16/22:17:27:57, Command, default_user, !res 50
+04/16/22:17:28:34, Log, @System, MidiBot initated
+04/16/22:17:28:34, Log, @System, Settings files loaded successfully
+04/16/22:17:28:38, Command, default_user, !res loop 0 127
+04/16/22:17:28:42, Command, default_user, !res 50
+04/16/22:17:28:46, Command, default_user, !res 60
+04/16/22:17:28:50, Command, default_user, !res 30
+04/16/22:17:30:38, Command, default_user, !res 50
+04/16/22:17:30:42, Command, default_user, !res 127
+04/16/22:17:30:44, Command, default_user, !res 0
+04/16/22:17:30:54, Command, default_user, !res loop 5[0.1] 40[2]
+04/16/22:17:31:00, Command, default_user, !res 127
+04/16/22:17:31:29, Log, @System, MidiBot initated
+04/16/22:17:31:29, Log, @System, Settings files loaded successfully
+04/16/22:17:31:31, Command, default_user, !res 50
+04/16/22:17:32:37, Log, @System, MidiBot initated
+04/16/22:17:32:37, Log, @System, Settings files loaded successfully
+04/16/22:17:34:40, Log, @System, MidiBot initated
+04/16/22:17:34:40, Log, @System, Settings files loaded successfully
+04/16/22:17:34:43, Command, default_user, !res 0[1]
+04/16/22:17:34:58, Log, @System, MidiBot initated
+04/16/22:17:34:58, Log, @System, Settings files loaded successfully
+04/16/22:17:35:03, Command, default_user, !res 0[1]
+04/16/22:17:35:07, Command, default_user, !res 100[5]
+04/16/22:17:35:11, Command, default_user, !res 10
+04/16/22:17:35:18, Command, default_user, !res 50 5 60 5 60 5
+04/16/22:17:36:02, Command, default_user, !res loop 0[0.1] 127[0.1]
+04/16/22:17:36:06, Command, default_user, !bpm 500
+04/16/22:17:36:33, Command, default_user, !reset
+04/16/22:17:36:35, Command, default_user, !res 0
+04/16/22:17:36:36, Command, default_user, !res 50
+04/16/22:17:36:38, Command, default_user, !res 0
+04/16/22:17:39:42, Log, @System, MidiBot initated
+04/16/22:17:39:43, Log, @System, Settings files loaded successfully
+04/16/22:17:39:44, Command, default_user, !res 50
+04/16/22:17:39:52, Command, default_user, !res 60
+04/16/22:17:39:55, Command, default_user, !res 0
+04/16/22:17:39:57, Command, default_user, !res 100
+04/16/22:17:40:02, Command, default_user, !res loop 0 100
+04/16/22:17:40:05, Command, default_user, !reset
+04/16/22:17:40:07, Command, default_user, !res 120
+04/16/22:17:40:29, Log, @System, MidiBot initated
+04/16/22:17:40:29, Log, @System, Settings files loaded successfully
+04/16/22:17:40:32, Command, default_user, !res 120
+04/16/22:17:40:34, Command, default_user, !res 40
+04/16/22:17:41:34, Command, default_user, !add synth c3
+04/16/22:17:41:43, Command, default_user, !res 64
+04/16/22:17:41:46, Command, default_user, !ress 543
+04/16/22:17:41:50, Command, default_user, !res 64[-0]
+04/16/22:17:41:55, Command, default_user, !res 64[ 65
+04/16/22:17:41:58, Command, default_user, !res 65
+04/16/22:17:42:00, Command, default_user, !res 50
+04/16/22:17:42:07, Command, default_user, !res loop 50 60
+04/16/22:17:42:22, Command, default_user, !res loop 60 100
+04/16/22:17:42:32, Command, default_user, !reset
+04/16/22:17:43:35, Log, @System, MidiBot initated
+04/16/22:17:43:35, Log, @System, Settings files loaded successfully
+04/16/22:17:43:38, Command, default_user, !add synth c3
+04/16/22:17:43:41, Command, default_user, !add synth d3
+04/16/22:17:43:44, Command, default_user, !reset
+04/16/22:17:44:05, Log, @System, MidiBot initated
+04/16/22:17:44:05, Log, @System, Settings files loaded successfully
+04/16/22:17:44:07, Command, default_user, !add synth c3
+04/16/22:17:44:10, Command, default_user, !add synth c4
+04/16/22:17:44:13, Command, default_user, !reset
+04/16/22:17:44:24, Command, default_user, !choice synth c3 d4 e3
+04/16/22:17:44:28, Command, default_user, !add synth c4
+04/16/22:17:44:33, Command, default_user, !reset
+04/16/22:17:44:40, Command, default_user, !choice synth a2 b2 e3
+04/16/22:17:44:48, Command, default_user, !choice synth b4 f4 g5
+04/16/22:17:44:55, Command, default_user, !add synth c2
+04/16/22:17:44:57, Command, default_user, !reset
+04/16/22:17:49:41, Log, @System, MidiBot initated
+04/16/22:17:49:41, Log, @System, Settings files loaded successfully
+04/16/22:17:49:44, Command, default_user, !add synth c3
+04/16/22:17:49:47, Command, default_user, !add synth c4
+04/16/22:17:49:49, Command, default_user, !add synth c5
+04/16/22:17:50:13, Log, @System, MidiBot initated
+04/16/22:17:50:13, Log, @System, Settings files loaded successfully
+04/16/22:17:50:21, Command, default_user, !choice synth c2 c3
+04/16/22:17:50:30, Command, default_user, !choice synth a2 a3 b4 b5
+04/16/22:17:50:42, Command, default_user, !choice c3-e3-f3
+04/16/22:17:50:47, Command, default_user, !choice synth c3-e3-f3
+04/16/22:17:51:08, Command, default_user, !add synth c3
+04/16/22:17:51:14, Command, default_user, !reset
+04/16/22:17:52:30, Log, @System, MidiBot initated
+04/16/22:17:52:30, Log, @System, Settings files loaded successfully
+04/16/22:17:52:34, Command, default_user, !add synth c3
+04/16/22:17:52:37, Command, default_user, !add synth c4
+04/16/22:17:52:41, Command, default_user, !add synth c6
+04/16/22:17:52:43, Command, default_user, !reset
+04/16/22:17:52:49, Log, @System, MidiBot initated
+04/16/22:17:52:49, Log, @System, Settings files loaded successfully
+04/16/22:17:52:53, Command, default_user, !add synth c2
+04/16/22:17:52:55, Command, default_user, !add synth c3
+04/16/22:17:52:57, Command, default_user, !add synth c4
+04/16/22:17:54:42, Log, @System, MidiBot initated
+04/16/22:17:54:42, Log, @System, Settings files loaded successfully
+04/16/22:17:54:45, Command, default_user, !add synth c3
+04/16/22:17:54:47, Command, default_user, !add synth c2
+04/16/22:17:54:50, Command, default_user, !add synth a2
+04/16/22:17:55:44, Log, @System, MidiBot initated
+04/16/22:17:55:44, Log, @System, Settings files loaded successfully
+04/16/22:17:55:46, Command, default_user, !add synth c3
+04/16/22:17:55:48, Command, default_user, !add synth c4
+04/16/22:17:55:52, Command, default_user, !add synth c5
+04/16/22:17:55:56, Command, default_user, !add synth c2
+04/16/22:17:56:03, Command, default_user, !add synth a2
+04/16/22:17:56:08, Command, default_user, !add synth e2
+04/16/22:17:57:24, Log, @System, MidiBot initated
+04/16/22:17:57:24, Log, @System, Settings files loaded successfully
+04/16/22:17:57:26, Command, default_user, !add synth c4
+04/16/22:17:57:28, Command, default_user, !add synth a2
+04/16/22:17:57:33, Command, default_user, !add synth e3
+04/16/22:17:58:55, Log, @System, MidiBot initated
+04/16/22:17:58:55, Log, @System, Settings files loaded successfully
+04/16/22:17:58:58, Command, default_user, !add synth c3
+04/16/22:17:59:00, Command, default_user, !add synth c4
+04/16/22:17:59:04, Command, default_user, !add synth a2
+04/16/22:17:59:47, Command, default_user, !reset
+04/16/22:18:01:03, Log, @System, MidiBot initated
+04/16/22:18:01:03, Log, @System, Settings files loaded successfully
+04/16/22:18:01:05, Command, default_user, !add synth c3
+04/16/22:18:01:08, Command, default_user, !add synth a1
+04/16/22:18:01:15, Command, default_user, !add synth c2
+04/16/22:18:01:27, Command, default_user, !add drums c1
+04/16/22:18:01:32, Command, default_user, !add drums c2
+04/16/22:18:01:36, Command, default_user, !add synth c4
+04/16/22:18:01:40, Command, default_user, !add synth a1
+04/16/22:18:01:43, Command, default_user, !add synth a4
+04/16/22:18:01:49, Command, default_user, !reset
+04/16/22:18:02:18, Log, @System, MidiBot initated
+04/16/22:18:02:18, Log, @System, Settings files loaded successfully
+04/16/22:18:02:21, Command, default_user, !add synth c3
+04/16/22:18:02:24, Command, default_user, !add synth c4
+04/16/22:18:02:28, Command, default_user, !add synth a2
+04/16/22:18:02:31, Command, default_user, !add drums c2
+04/16/22:18:02:36, Command, default_user, !add synth c1
+04/16/22:18:02:37, Command, default_user, !reset
+04/16/22:18:02:59, Log, @System, MidiBot initated
+04/16/22:18:02:59, Log, @System, Settings files loaded successfully
+04/16/22:18:03:02, Command, default_user, !add synth c3
+04/16/22:18:03:04, Command, default_user, !add synth c2
+04/16/22:18:03:06, Command, default_user, !add synth c5
+04/16/22:18:03:08, Command, default_user, !reset
+04/16/22:18:03:11, Command, default_user, !reset synth
+04/16/22:18:03:19, Command, default_user, !synth reset
+04/16/22:18:09:10, Log, @System, MidiBot initated
+04/16/22:18:09:10, Log, @System, Settings files loaded successfully
+04/16/22:18:09:13, Command, default_user, !add synth c3
+04/16/22:18:09:15, Command, default_user, !add synth c2
+04/16/22:18:09:19, Command, default_user, !add synth a2
+04/16/22:18:09:21, Command, default_user, !reset
+04/16/22:18:09:24, Command, default_user, !add synth c2-c3
+04/16/22:18:09:28, Command, default_user, !add synth a2-a3-e3
+04/16/22:18:09:33, Command, default_user, !reset
+04/16/22:18:11:26, Log, @System, MidiBot initated
+04/16/22:18:11:26, Log, @System, Settings files loaded successfully
+04/16/22:18:11:29, Command, default_user, !add synth c3
+04/16/22:18:11:33, Command, default_user, !add synth c4
+04/16/22:18:11:37, Command, default_user, !add synth a2
+04/16/22:18:11:39, Command, default_user, !reset
+04/16/22:18:12:06, Log, @System, MidiBot initated
+04/16/22:18:12:06, Log, @System, Settings files loaded successfully
+04/16/22:18:12:10, Command, default_user, !add synth c3
+04/16/22:18:12:12, Command, default_user, !add synth a2
+04/16/22:18:12:15, Command, default_user, !add synth a4
+04/16/22:18:12:20, Command, default_user, !add synth a2 e3 e4
+04/16/22:18:12:24, Command, default_user, !reset
+04/16/22:18:13:09, Log, @System, MidiBot initated
+04/16/22:18:13:09, Log, @System, Settings files loaded successfully
+04/16/22:18:13:12, Command, default_user, !add synth c3
+04/16/22:18:13:14, Command, default_user, !add synth a2
+04/16/22:18:13:17, Command, default_user, !add synth e3 e4
+04/16/22:18:13:39, Command, default_user, !bpm 500
+04/16/22:18:13:41, Command, default_user, !bpm 40
+04/16/22:18:13:43, Command, default_user, !bpm 120
+04/16/22:18:14:14, Command, default_user, !undo
+04/16/22:18:14:20, Command, default_user, !add synth e3 e4
+04/16/22:18:14:22, Command, default_user, !undo
+04/16/22:18:14:25, Command, default_user, !add synth c3
+04/16/22:18:14:28, Command, default_user, !add synth c4
+04/16/22:18:14:29, Command, default_user, !undo
+04/16/22:18:14:36, Command, default_user, !add synth c3-c4-c5
+04/16/22:18:14:40, Command, default_user, !add synth a2-a3-a4
+04/16/22:18:14:42, Command, default_user, !undo
+04/16/22:18:14:48, Log, @System, MidiBot initated
+04/16/22:18:14:48, Log, @System, Settings files loaded successfully
+04/16/22:18:14:54, Command, default_user, !add synth c3
+04/16/22:18:14:56, Command, default_user, !add synth a2
+04/16/22:18:14:58, Command, default_user, !undo
+04/16/22:18:16:45, Log, @System, MidiBot initated
+04/16/22:18:16:45, Log, @System, Settings files loaded successfully
+04/16/22:18:16:46, Command, default_user, !reset
+04/16/22:18:16:49, Command, default_user, !add synth c3
+04/16/22:18:16:51, Command, default_user, !add synth c4
+04/16/22:18:16:54, Command, default_user, !add synth c5
+04/16/22:18:16:58, Command, default_user, !add synth a2
+04/16/22:18:17:00, Command, default_user, !reset
+04/16/22:18:17:09, Log, @System, MidiBot initated
+04/16/22:18:17:09, Log, @System, Settings files loaded successfully
+04/16/22:18:17:11, Command, default_user, !add synth c3
+04/16/22:18:17:13, Command, default_user, !add synth c2
+04/16/22:18:17:19, Command, default_user, !add synth a2
+04/16/22:18:18:04, Log, @System, MidiBot initated
+04/16/22:18:18:04, Log, @System, Settings files loaded successfully
+04/16/22:18:18:07, Command, default_user, !add synth a2
+04/16/22:18:18:09, Command, default_user, !add synth e2
+04/16/22:18:18:12, Command, default_user, !add synth c3
+04/16/22:18:18:16, Command, default_user, !add synth c4
+04/16/22:18:18:17, Command, default_user, !reset
+04/16/22:18:18:20, Command, default_user, !add synth a2
+04/16/22:18:18:22, Command, default_user, !add synth a4
+04/16/22:18:18:23, Command, default_user, !undo
+04/16/22:18:22:31, Log, @System, MidiBot initated
+04/16/22:18:22:31, Log, @System, Settings files loaded successfully
+04/16/22:18:22:34, Command, default_user, !add synth c3
+04/16/22:18:22:36, Command, default_user, !add synth c4
+04/16/22:18:22:41, Command, default_user, !add drums c1
+04/16/22:18:22:45, Command, default_user, !add durms c3
+04/16/22:18:22:49, Command, default_user, !add drums c3
+04/16/22:18:22:58, Command, default_user, !add synth a2-e2-f2-g2
+04/16/22:18:23:05, Command, default_user, !reset
+04/17/22:18:28:14, Log, @System, MidiBot initated
+04/17/22:18:28:14, Log, @System, Settings files loaded successfully
+04/17/22:18:28:20, Command, default_user, !res 10
+04/17/22:18:28:22, Command, default_user, !res 127
+04/17/22:18:28:25, Command, default_user, !res loop 0 100
+04/17/22:18:28:28, Command, default_user, !res 0
+04/17/22:18:28:31, Command, default_user, !res 50
+04/17/22:18:28:34, Command, default_user, !res loop 50 60
+04/17/22:18:28:41, Command, default_user, !add synth c3
+04/17/22:18:28:45, Command, default_user, !add synth d3
+04/17/22:18:29:03, Command, default_user, !reset
+04/17/22:18:29:04, Command, default_user, !res
+04/17/22:18:29:07, Command, default_user, !res loop
+04/17/22:18:31:07, Command, default_user, !res loop
+04/17/22:18:31:08, Command, default_user, !res loop
+04/17/22:18:31:10, Command, default_user, !res loop 50
+04/17/22:18:31:13, Command, default_user, !res loop 0 50
+04/17/22:18:31:16, Command, default_user, !res 100
+04/17/22:18:31:27, Command, default_user, !res loop
+04/17/22:18:31:29, Command, default_user, !synth rest
+04/17/22:18:31:32, Command, default_user, !add synth rest
+04/17/22:18:31:35, Command, default_user, !reset
+04/17/22:18:31:39, Command, default_user, !res loop
+04/17/22:18:34:57, Command, default_user, !res loop 
+04/17/22:18:35:00, Command, default_user, !cutoff loop
+04/17/22:18:35:11, Log, @System, MidiBot initated
+04/17/22:18:35:12, Log, @System, Settings files loaded successfully
+04/17/22:18:35:14, Command, default_user, !res loop
+04/17/22:18:35:59, Log, @System, MidiBot initated
+04/17/22:18:35:59, Log, @System, Settings files loaded successfully
+04/17/22:18:36:01, Command, default_user, !res loop
+04/17/22:18:37:20, Log, @System, MidiBot initated
+04/17/22:18:37:20, Log, @System, Settings files loaded successfully
+04/17/22:18:37:22, Command, default_user, !res loop
+04/17/22:18:37:55, Command, default_user, !add synth
+04/17/22:18:45:04, Log, @System, MidiBot initated
+04/17/22:18:45:04, Log, @System, Settings files loaded successfully
+04/17/22:18:45:08, Command, default_user, !res loop
+04/17/22:18:45:13, Command, default_user, !cutoff 0 127
+04/17/22:18:45:27, Command, default_user, !res 0 127 0 127
+04/17/22:18:45:32, Command, default_user, !res 0-1
+04/17/22:18:46:51, Command, default_user, !res 127 loop
+04/17/22:18:46:56, Log, @System, MidiBot initated
+04/17/22:18:46:56, Log, @System, Settings files loaded successfully
+04/17/22:18:47:00, Command, default_user, !res loop 0 100
+04/17/22:18:47:03, Command, default_user, !res loop 0 5
+04/17/22:18:47:10, Command, default_user, !res loop 0[0]
+04/17/22:18:47:13, Command, default_user, !res loop 0
+04/17/22:18:49:16, Log, @System, MidiBot initated
+04/17/22:18:49:16, Log, @System, Settings files loaded successfully
+04/17/22:18:49:20, Command, default_user, !res loop 0 100
+04/17/22:18:49:26, Command, default_user, !res loop 5 6
+04/17/22:18:49:33, Command, default_user, !res loop 5 10
+04/17/22:18:49:41, Command, default_user, !res loop 0 127[10000]
+04/17/22:18:49:44, Command, default_user, !reset
+04/17/22:18:49:48, Command, default_user, !reset
+04/17/22:18:49:52, Command, default_user, !reset
+04/17/22:18:49:54, Command, default_user, !reset
+04/17/22:18:50:00, Command, default_user, !res 64
+04/17/22:18:50:05, Command, default_user, !add synth 50
+04/17/22:18:50:11, Command, default_user, !add synth c3-c4 a3-a4
+04/17/22:18:50:17, Command, default_user, !undo
+04/17/22:18:50:19, Command, default_user, !undo
+04/17/22:18:50:20, Command, default_user, !reset
+04/17/22:19:03:16, Log, @System, MidiBot initated
+04/17/22:19:03:16, Log, @System, Settings files loaded successfully
+04/17/22:19:03:19, Command, default_user, !add synth a3
+04/17/22:19:03:23, Command, default_user, !add synth a4
+04/17/22:19:03:24, Command, default_user, !reset
+04/17/22:19:05:39, Log, @System, MidiBot initated
+04/17/22:19:05:39, Log, @System, Settings files loaded successfully
+04/17/22:19:05:42, Command, default_user, !replace synth c3
+04/17/22:19:05:46, Command, default_user, !replace synth a2
+04/17/22:19:05:58, Command, default_user, !add synth c4-a2
+04/17/22:19:06:01, Command, default_user, !add synth e2-f4
+04/17/22:19:06:06, Command, default_user, !replace synth c2
+04/17/22:19:06:14, Command, default_user, !replace synth c1
+04/17/22:19:06:23, Command, default_user, !reset
+04/17/22:19:06:25, Command, default_user, !reset
+04/17/22:19:06:28, Command, default_user, !undo
+04/17/22:19:07:40, Command, default_user, !add synth e2-f2[4] c2-e2[4]
+04/17/22:19:07:52, Command, default_user, !replace synth c2
+04/17/22:19:07:56, Command, default_user, !replace synth c4
+04/17/22:19:08:00, Command, default_user, !add synth c3
+04/17/22:19:08:03, Command, default_user, !add synth a2
+04/17/22:19:08:07, Command, default_user, !replace synth e1
+04/17/22:19:08:13, Command, default_user, !reset
+04/17/22:19:09:12, Log, @System, MidiBot initated
+04/17/22:19:09:12, Log, @System, Settings files loaded successfully
+04/17/22:19:09:15, Command, default_user, !add synth c3
+04/17/22:19:09:18, Command, default_user, !add synth a2
+04/17/22:19:09:20, Command, default_user, !add synth f2
+04/17/22:19:09:24, Command, default_user, !replace synth c2
+04/17/22:19:09:47, Command, default_user, !undo
+04/17/22:19:09:49, Command, default_user, !undo
+04/17/22:19:09:51, Command, default_user, !reset
+04/17/22:19:09:55, Command, default_user, !replace synth c3
+04/17/22:19:10:04, Command, default_user, !replace synth c4
+04/17/22:19:10:08, Command, default_user, !replace synth a1
+04/17/22:19:10:11, Command, default_user, !add synth a2
+04/17/22:19:10:17, Command, default_user, !add synth a3
+04/17/22:19:10:20, Command, default_user, !replace synth f1
+04/17/22:19:10:27, Command, default_user, !replace synth f1
+04/17/22:19:10:30, Command, default_user, !replace synth a2
+04/17/22:19:10:34, Command, default_user, !replace synth a4
+04/17/22:19:10:37, Command, default_user, !reset
+04/17/22:19:12:06, Command, default_user, !add synth c3
+04/17/22:19:12:08, Command, default_user, !add synth c2
+04/17/22:19:12:13, Command, default_user, !add drums d1 c1
+04/17/22:19:12:17, Command, default_user, !reset
+04/17/22:19:12:43, Command, default_user, !add synth c3 c2
+04/17/22:19:12:50, Command, default_user, !add synth a2 f2 e2
+04/17/22:19:13:00, Command, default_user, !choice synth a3 f3 e3
+04/17/22:19:13:43, Command, default_user, !add synth a1[8] f1[8]
+04/17/22:19:16:30, Command, default_user, !replace synth c3 c2
+04/17/22:19:16:38, Command, default_user, !reset
+04/18/22:00:36:13, Log, @System, MidiBot initated
+04/18/22:00:36:13, Log, @System, Settings files loaded successfully
+04/18/22:00:36:16, Command, default_user, !res
+04/18/22:00:36:19, Command, default_user, !res 9
+04/18/22:00:36:20, Command, default_user, !res 999
+04/18/22:00:36:24, Command, default_user, !res 999 99 9
+04/18/22:00:36:27, Command, default_user, !res loop
+04/18/22:00:36:29, Command, default_user, !res loop 1
+04/18/22:00:36:34, Command, default_user, !res loop 2 1
+04/18/22:00:36:37, Command, default_user, !reset
+04/18/22:19:50:56, Log, @System, MidiBot initated
+04/18/22:19:50:56, Log, @System, Settings files loaded successfully
+04/18/22:19:50:59, Command, default_user, !add
+04/18/22:19:51:00, Command, default_user, !add synth
+04/18/22:19:51:04, Command, default_user, !loop
+04/18/22:19:51:05, Command, default_user, !res
+04/18/22:19:51:07, Command, default_user, !res loop
+04/18/22:19:51:11, Command, default_user, !res loop -1
+04/18/22:19:51:14, Command, default_user, !res loop
+04/18/22:19:51:20, Command, default_user, !add synth
+04/18/22:19:51:25, Command, default_user, !add synth macro
+04/18/22:19:51:27, Command, default_user, !macro
+04/18/22:19:51:36, Command, default_user, !macro m1 c
+04/18/22:19:51:50, Command, default_user, !synth add $cc
+04/18/22:19:51:56, Command, default_user, !add synth $c
+04/18/22:19:52:41, Command, default_user, !add synth $m1
+04/18/22:19:52:43, Command, default_user, !reset
+04/18/22:19:53:37, Command, default_user, !macro m
+04/18/22:19:53:48, Command, default_user, !add synth $mc
+04/18/22:19:56:21, Log, @System, MidiBot initated
+04/18/22:19:56:21, Log, @System, Settings files loaded successfully
+04/18/22:19:56:23, Command, default_user, !macro
+04/18/22:19:56:25, Command, default_user, !macro
+04/18/22:19:56:27, Command, default_user, !macro sadf asdf
+04/18/22:19:58:09, Log, @System, MidiBot initated
+04/18/22:19:58:09, Log, @System, Settings files loaded successfully
+04/18/22:19:58:13, Command, default_user, !macro
+04/18/22:19:58:19, Command, default_user, !macro asdf
+04/18/22:20:07:17, Log, @System, MidiBot initated
+04/18/22:20:07:17, Log, @System, Settings files loaded successfully
+04/18/22:20:07:22, Command, default_user, !macro james c d e f
+04/18/22:20:07:55, Log, @System, MidiBot initated
+04/18/22:20:07:55, Log, @System, Settings files loaded successfully
+04/18/22:20:07:58, Command, default_user, !macro james m1
+04/18/22:20:08:00, Command, default_user, !macro james m2
+04/18/22:20:08:39, Log, @System, MidiBot initated
+04/18/22:20:09:20, Log, @System, MidiBot initated
+04/18/22:20:09:20, Log, @System, Settings files loaded successfully
+04/18/22:20:09:49, Log, @System, MidiBot initated
+04/18/22:20:09:49, Log, @System, Settings files loaded successfully
+04/18/22:20:09:58, Command, default_user, !macro cindy c d e f g a
+04/18/22:20:10:07, Log, @System, MidiBot initated
+04/18/22:20:10:07, Log, @System, Settings files loaded successfully
+04/18/22:20:10:21, Log, @System, MidiBot initated
+04/18/22:20:10:21, Log, @System, Settings files loaded successfully
+04/18/22:20:10:30, Log, @System, MidiBot initated
+04/18/22:20:10:57, Log, @System, MidiBot initated
+04/18/22:20:10:57, Log, @System, Settings files loaded successfully
+04/18/22:20:11:11, Log, @System, MidiBot initated
+04/18/22:20:11:11, Log, @System, Settings files loaded successfully
+04/18/22:20:11:24, Log, @System, MidiBot initated
+04/18/22:20:11:24, Log, @System, Settings files loaded successfully
+04/18/22:20:11:41, Log, @System, MidiBot initated
+04/18/22:20:11:51, Log, @System, MidiBot initated
+04/18/22:20:11:51, Log, @System, Settings files loaded successfully
+04/18/22:20:12:19, Log, @System, MidiBot initated
+04/18/22:20:12:19, Log, @System, Settings files loaded successfully
+04/18/22:20:13:16, Log, @System, MidiBot initated
+04/18/22:20:13:16, Log, @System, Settings files loaded successfully
+04/18/22:20:13:27, Command, default_user, !macro cmajor c3-e3-f3
+04/18/22:20:13:37, Command, default_user, !macro fmajor f3-a3-c4-e4
+04/18/22:20:13:45, Log, @System, MidiBot initated
+04/18/22:20:13:45, Log, @System, Settings files loaded successfully
+04/18/22:20:13:53, Log, @System, MidiBot initated
+04/18/22:20:13:53, Log, @System, Settings files loaded successfully
+04/18/22:20:15:25, Log, @System, MidiBot initated
+04/18/22:20:15:25, Log, @System, Settings files loaded successfully
+04/18/22:20:15:40, Command, default_user, !macro james1 c3 a2 a2[4] a2[6]
+04/18/22:20:15:45, Log, @System, MidiBot initated
+04/18/22:20:15:45, Log, @System, Settings files loaded successfully
+04/18/22:20:15:55, Command, default_user, !add synth $james1
+04/18/22:20:16:03, Command, default_user, !add synth $sadfusadfu
+04/18/22:20:16:11, Command, default_user, !add synth $poo
+04/18/22:20:17:19, Log, @System, MidiBot initated
+04/18/22:20:17:19, Log, @System, Settings files loaded successfully
+04/18/22:20:25:21, Command, default_user, !reset
+04/18/22:20:25:22, Command, default_user, !undo
+04/18/22:20:25:23, Command, default_user, !sdaf
+04/18/22:20:25:24, Command, default_user, !res
+04/18/22:20:25:26, Command, default_user, !res loop
+04/18/22:20:25:28, Command, default_user, !add synth
+04/18/22:20:25:29, Command, default_user, !add poo
+04/18/22:20:25:32, Command, default_user, !add!
+04/18/22:20:25:35, Command, default_user, !macro
+04/18/22:20:31:12, Log, @System, MidiBot initated
+04/18/22:20:31:12, Log, @System, Settings files loaded successfully
+04/18/22:20:31:15, Command, default_user, !update synth c3
+04/18/22:20:31:28, Command, default_user, !update drums c1
+04/18/22:20:33:33, Log, @System, MidiBot initated
+04/18/22:20:33:34, Log, @System, Settings files loaded successfully
+04/18/22:20:33:37, Command, default_user, !update synth c3
+04/18/22:20:33:56, Command, default_user, !add synth c3
+04/18/22:20:33:59, Command, default_user, !reset
+04/18/22:20:34:02, Command, default_user, !update synth c4
+04/18/22:20:35:22, Log, @System, MidiBot initated
+04/18/22:20:35:22, Log, @System, Settings files loaded successfully
+04/18/22:20:35:28, Command, default_user, !update synth c3
+04/18/22:20:37:52, Log, @System, MidiBot initated
+04/18/22:20:37:52, Log, @System, Settings files loaded successfully
+04/18/22:20:37:55, Command, default_user, !add synth c3
+04/18/22:20:37:58, Command, default_user, !replace synth c2
+04/18/22:20:38:03, Command, default_user, !replace synth a2-a3
+04/18/22:20:38:07, Command, default_user, !replace synth c2-c3
+04/18/22:20:38:15, Command, default_user, !replace synth a2-a3 c2-c3 b3-4
+04/18/22:20:38:22, Command, default_user, !replace synth c3 d3 f3 e3
+04/18/22:20:38:29, Command, default_user, !add synth f4 b4 e4
+04/18/22:20:38:37, Command, default_user, !add synth $cmajor
+04/18/22:20:38:43, Command, default_user, !replace synth c32
+04/18/22:20:38:46, Command, default_user, !replace synth c3
+04/18/22:20:39:10, Command, default_user, !replace synth $cmajor[8] $fmajor[8]
+04/18/22:20:39:42, Command, default_user, !macro cmajorscale c3 d3 e3 f3 g3 a3 b3 c4
+04/18/22:20:39:48, Command, default_user, !choice synth $cmajorscale
+04/18/22:20:40:15, Command, default_user, !choice synth $cmajorscale
+04/18/22:20:40:25, Command, default_user, !choice synth c3 d3 e3 f3 g3 a3 b3 c4
+04/18/22:20:40:36, Log, @System, MidiBot initated
+04/18/22:20:40:36, Log, @System, Settings files loaded successfully
+04/18/22:20:40:37, Command, default_user, !reset
+04/18/22:20:40:40, Command, default_user, !reset
+04/18/22:20:41:06, Command, default_user, !add synth $cmajorscale
+04/18/22:20:41:36, Command, default_user, !macro c c3 d3 e3 f3 g3 a3 b3 c4
+04/18/22:20:41:40, Command, default_user, !add synth $c
+04/18/22:20:41:45, Command, default_user, !add synth cmajor
+04/18/22:20:41:50, Command, default_user, !add synth $cmajor
+04/18/22:20:42:01, Command, default_user, !replace synth $cmajor[4] $fmajor[4]
+04/18/22:20:42:08, Command, default_user, !reset
+04/18/22:20:44:18, Log, @System, MidiBot initated
+04/18/22:20:44:18, Log, @System, Settings files loaded successfully
+04/18/22:20:46:24, Log, @System, MidiBot initated
+04/18/22:20:46:24, Log, @System, Settings files loaded successfully
+04/18/22:20:46:31, Command, default_user, !add synth $cmajor
+04/18/22:20:46:36, Command, default_user, !$cmajor
+04/18/22:20:52:13, Log, @System, MidiBot initated
+04/18/22:20:52:13, Log, @System, Settings files loaded successfully
+04/18/22:20:52:31, Command, default_user, !$cmajor
+04/18/22:20:53:02, Log, @System, MidiBot initated
+04/18/22:20:53:03, Log, @System, Settings files loaded successfully
+04/18/22:20:53:06, Command, default_user, !$cmajor
+04/18/22:20:54:29, Log, @System, MidiBot initated
+04/18/22:20:54:29, Log, @System, Settings files loaded successfully
+04/18/22:20:54:32, Command, default_user, !$
+04/18/22:20:55:05, Log, @System, MidiBot initated
+04/18/22:20:55:05, Log, @System, Settings files loaded successfully
+04/18/22:20:55:08, Command, default_user, !$puppy
+04/18/22:20:55:26, Log, @System, MidiBot initated
+04/18/22:20:55:26, Log, @System, Settings files loaded successfully
+04/18/22:20:55:29, Command, default_user, !$cmajor
+04/18/22:20:56:35, Log, @System, MidiBot initated
+04/18/22:20:56:35, Log, @System, Settings files loaded successfully
+04/18/22:20:56:39, Command, default_user, !add synth $cmajor
+04/18/22:20:56:42, Command, default_user, !reset
+04/18/22:20:56:45, Command, default_user, !add synth $cmajorscale
+04/18/22:20:57:50, Command, default_user, !add synth $c3
+04/18/22:20:58:00, Command, default_user, !macro c3 a6
+04/18/22:20:58:06, Command, default_user, !add synth c3
+04/18/22:20:58:10, Command, default_user, !replace synth c3
+04/18/22:20:58:37, Command, default_user, !replace synth $cmajorscale
+04/18/22:20:58:46, Command, default_user, !add synth $cmajor $fmajor
+04/18/22:20:58:49, Command, default_user, !reset
+04/18/22:21:00:14, Log, @System, MidiBot initated
+04/18/22:21:00:14, Log, @System, Settings files loaded successfully
+04/18/22:21:00:16, Command, default_user, !add synth c3
+04/18/22:21:02:17, Log, @System, MidiBot initated
+04/18/22:21:02:17, Log, @System, Settings files loaded successfully
+04/18/22:21:02:20, Command, default_user, !add synth c3
+04/18/22:21:02:27, Command, default_user, !macro test! a4
+04/18/22:21:02:31, Command, default_user, !add synth $test!
+04/18/22:21:02:34, Command, default_user, !reset
+04/18/22:21:05:02, Log, @System, MidiBot initated
+04/18/22:21:05:02, Log, @System, Settings files loaded successfully
+04/18/22:21:12:24, Log, @System, MidiBot initated
+04/18/22:21:12:24, Log, @System, Settings files loaded successfully
+04/18/22:21:12:25, Command, default_user, append
+04/18/22:21:12:31, Command, default_user, append synth c3
+04/18/22:21:12:47, Command, default_user, add synth c3
+04/18/22:21:12:51, Command, default_user, add synth a2-f2
+04/18/22:21:12:57, Command, default_user, add synth $cmajorscale
+04/18/22:21:13:02, Command, default_user, append synth c3
+04/18/22:21:15:19, Log, @System, MidiBot initated
+04/18/22:21:15:19, Log, @System, Settings files loaded successfully
+04/18/22:21:15:23, Command, default_user, add synth c d e f
+04/18/22:21:15:26, Command, default_user, add synth $cmajor
+04/18/22:21:15:32, Command, default_user, add synth $cmajorscale
+04/18/22:21:15:36, Command, default_user, append synth c3
+04/18/22:21:23:03, Command, default_user, reset
+04/18/22:23:17:58, Log, @System, MidiBot initated
+04/18/22:23:17:58, Log, @System, Settings files loaded successfully
+04/18/22:23:18:01, Command, default_user, add synth c3
+04/18/22:23:18:03, Command, default_user, add synth e3
+04/18/22:23:18:04, Command, default_user, add synth a2
+04/18/22:23:18:25, Command, default_user, append synth c3
+04/18/22:23:18:48, Command, default_user, replace synth a2
+04/18/22:23:18:52, Command, default_user, reset
+04/18/22:23:23:10, Log, @System, MidiBot initated
+04/18/22:23:23:11, Log, @System, Settings files loaded successfully
+04/18/22:23:23:13, Command, default_user, add synth c3
+04/18/22:23:23:16, Command, default_user, append synth a2
+04/18/22:23:23:34, Command, default_user, append synth c5
+04/18/22:23:23:37, Command, default_user, reset
+04/18/22:23:28:14, Command, default_user, add synth c3 a2 c4 a3
+04/18/22:23:28:21, Command, default_user, append synth d2
+04/18/22:23:28:31, Command, default_user, append synth f4 e3
+04/18/22:23:28:36, Command, default_user, replace synth c3
+04/18/22:23:28:44, Command, default_user, reset
+04/18/22:23:28:47, Command, default_user, add synth c3 d2
+04/18/22:23:29:01, Command, default_user, add synth f4-a4 d4-f4[4]
+04/18/22:23:29:08, Command, default_user, replace synth c3
+04/18/22:23:29:11, Command, default_user, undo
+04/18/22:23:29:12, Command, default_user, reset
+04/19/22:00:15:07, Log, @System, MidiBot initated
+04/19/22:00:15:07, Log, @System, Settings files loaded successfully
+04/19/22:00:15:10, Command, default_user, add synth c3
+04/19/22:00:15:14, Command, default_user, reset
+04/19/22:00:15:17, Command, default_user, add synth $cmajor
+04/19/22:00:15:19, Command, default_user, reset
+04/19/22:00:16:00, Command, default_user, add synth $cmajor[4] $fmajor[4] $fmajor[4] f3-a#3-b3-d4[4]
+04/19/22:00:16:31, Command, default_user, add synth a#3
+04/19/22:00:16:33, Command, default_user, reset
+04/19/22:00:16:41, Command, default_user, add synth $fmajor[4]
+04/19/22:00:17:13, Command, default_user, add synth $fmajor
+04/19/22:00:17:15, Command, default_user, reset
+04/19/22:00:17:21, Command, default_user, add synth $fmajor[4]
+04/19/22:00:17:25, Command, default_user, add synth $cmajor[4]
+04/19/22:00:23:56, Command, default_user, add/users/jamespeck/documents/python/tpts-venv-test2/.venv/bin/python /users/jamespeck/documents/python/tpts-venv-test2/midibot/midibot.py
+04/19/22:00:23:59, Log, @System, MidiBot initated
+04/19/22:00:23:59, Log, @System, Settings files loaded successfully
+04/19/22:00:24:04, Command, default_user, add synth $cmajor[4]
+04/19/22:00:25:19, Log, @System, MidiBot initated
+04/19/22:00:25:19, Log, @System, Settings files loaded successfully
+04/19/22:00:25:22, Command, default_user, add synth $cmajor
+04/19/22:00:25:52, Log, @System, MidiBot initated
+04/19/22:00:25:52, Log, @System, Settings files loaded successfully
+04/19/22:00:25:55, Command, default_user, add synth $cmajor
+04/19/22:00:32:15, Log, @System, MidiBot initated
+04/19/22:00:32:15, Log, @System, Settings files loaded successfully
+04/19/22:00:32:19, Command, default_user, add synth $cmajor
+04/19/22:00:32:21, Command, default_user, reset
+04/19/22:00:32:26, Command, default_user, add synth $cmajor[4]
+04/19/22:00:32:28, Command, default_user, reset
+04/19/22:00:32:46, Command, default_user, add synth $cmajor[4] $fmajor[4]
+04/19/22:00:32:49, Command, default_user, reset
+04/19/22:00:32:57, Command, default_user, add synth $c[4]
+04/19/22:00:33:12, Command, default_user, reset
+04/19/22:00:33:20, Command, default_user, add synth d2-e2-f2
+04/19/22:00:33:22, Command, default_user, reset
+04/19/22:00:33:26, Command, default_user, add drums c1 d1
+04/19/22:00:33:33, Command, default_user, replace drums d2
+04/19/22:00:33:36, Command, default_user, reset
+04/19/22:00:33:39, Command, default_user, sa
+04/19/22:00:33:41, Command, default_user, $
+04/19/22:00:33:43, Command, default_user, $c
+04/19/22:00:33:55, Command, default_user, rand synth $c
+04/19/22:00:33:58, Command, default_user, reset
+04/19/22:00:34:11, Command, default_user, choice synth $c $cmajor $fmajor
+04/19/22:00:34:26, Command, default_user, reset
+04/19/22:00:35:35, Command, default_user, macro c a2 a2 a1 a1
+04/19/22:00:35:38, Command, default_user, add synth $c
+04/19/22:00:35:53, Command, default_user, macro c a1 a1
+04/19/22:00:35:56, Command, default_user, add synth $c3
+04/19/22:00:36:04, Command, default_user, add synth $c
+04/19/22:00:36:28, Command, default_user, replace synth $cmajor
+04/19/22:00:36:29, Command, default_user, replace
+04/19/22:00:36:33, Command, default_user, replace synth
+04/19/22:00:36:35, Command, default_user, replace synth 100
+04/19/22:00:36:37, Command, default_user, reset
+04/19/22:00:36:42, Command, default_user, add synth $c
+04/19/22:00:36:44, Command, default_user, reset
+04/19/22:00:36:49, Command, default_user, add synth $c3
+04/19/22:00:37:13, Command, default_user, add synth $!test
+04/19/22:00:37:24, Command, default_user, add synth $test!
+04/19/22:00:37:29, Command, default_user, replace synth c3
+04/19/22:00:37:32, Command, default_user, reset
+04/20/22:19:59:55, Log, @System, MidiBot initated
+04/20/22:19:59:55, Log, @System, Settings files loaded successfully
+04/20/22:19:59:59, Command, default_user, macro add $james
+04/20/22:20:01:22, Command, default_user, macro james c3
+04/20/22:20:01:29, Command, default_user, synth add $james
+04/20/22:20:02:07, Command, default_user, add synth $james
+04/20/22:20:02:09, Command, default_user, reset
+04/20/22:20:02:26, Command, default_user, macro jame c4
+04/20/22:20:02:31, Command, default_user, add synth $jame
+04/20/22:20:02:35, Command, default_user, add synth $james
+04/20/22:20:02:48, Command, default_user, add synth $james[4]
+04/20/22:20:03:13, Command, default_user, add synth $james[4] $jame[2]
+04/20/22:20:03:20, Command, default_user, reset
+04/20/22:20:06:33, Command, default_user, 
+04/20/22:20:07:09, Log, @System, MidiBot initated
+04/20/22:20:07:09, Log, @System, Settings files loaded successfully
+04/20/22:20:07:10, Command, default_user, 
+04/20/22:20:07:13, Log, @System, MidiBot initated
+04/20/22:20:07:14, Log, @System, Settings files loaded successfully
+04/20/22:20:09:37, Log, @System, MidiBot initated
+04/20/22:20:09:37, Log, @System, Settings files loaded successfully
+04/20/22:20:09:39, Command, default_user,  
+04/20/22:20:10:08, Log, @System, MidiBot initated
+04/20/22:20:10:08, Log, @System, Settings files loaded successfully
+04/20/22:20:10:11, Command, default_user, 
+04/20/22:20:21:53, Log, @System, MidiBot initated
+04/20/22:20:21:53, Log, @System, Settings files loaded successfully
+04/20/22:20:21:54, Command, default_user, 
+04/20/22:20:22:24, Log, @System, MidiBot initated
+04/20/22:20:22:24, Log, @System, Settings files loaded successfully
+04/20/22:20:22:25, Command, default_user, 
+04/20/22:20:23:01, Log, @System, MidiBot initated
+04/20/22:20:23:01, Log, @System, Settings files loaded successfully
+04/20/22:20:23:02, Command, default_user, 
+04/20/22:20:23:19, Log, @System, MidiBot initated
+04/20/22:20:23:19, Log, @System, Settings files loaded successfully
+04/20/22:20:23:20, Command, default_user, 
+04/20/22:20:23:55, Log, @System, MidiBot initated
+04/20/22:20:23:55, Log, @System, Settings files loaded successfully
+04/20/22:20:23:58, Command, default_user, 
+04/20/22:20:24:10, Log, @System, MidiBot initated
+04/20/22:20:24:11, Log, @System, Settings files loaded successfully
+04/20/22:20:24:26, Log, @System, MidiBot initated
+04/20/22:20:24:26, Log, @System, Settings files loaded successfully
+04/20/22:20:24:30, Command, default_user, 
+04/20/22:20:25:02, Command, default_user, 
+04/20/22:20:25:10, Log, @System, MidiBot initated
+04/20/22:20:25:10, Log, @System, Settings files loaded successfully
+04/20/22:20:25:11, Command, default_user, 
+04/20/22:20:25:29, Command, default_user, 
+04/20/22:20:25:44, Command, default_user, add
+04/20/22:20:25:48, Command, default_user, $
+04/20/22:20:25:51, Command, default_user, $james
+04/20/22:20:25:54, Command, default_user, add synth $cmajor
+04/20/22:20:25:56, Command, default_user, reset
+04/20/22:20:25:59, Command, default_user, replace synth $cmajor
+04/20/22:20:26:06, Command, default_user, reset
+04/20/22:20:26:08, Command, default_user, re
+04/20/22:20:28:37, Command, default_user, help
+04/20/22:20:30:31, Log, @System, MidiBot initated
+04/20/22:20:30:31, Log, @System, Settings files loaded successfully
+04/20/22:20:30:33, Command, default_user, help
+04/20/22:20:31:15, Log, @System, MidiBot initated
+04/20/22:20:31:15, Log, @System, Settings files loaded successfully
+04/20/22:20:31:17, Command, default_user, help
+04/20/22:20:31:47, Log, @System, MidiBot initated
+04/20/22:20:31:47, Log, @System, Settings files loaded successfully
+04/20/22:20:31:48, Command, default_user, help
+04/20/22:21:06:49, Log, @System, MidiBot initated
+04/20/22:21:06:49, Log, @System, Settings files loaded successfully
+04/20/22:21:06:51, Command, default_user, help
+04/20/22:21:07:05, Command, default_user, shape1 120
+04/20/22:21:07:08, Command, default_user, shape1 0
+04/20/22:21:07:11, Command, default_user, shape1 loop 0
+04/20/22:21:07:15, Command, default_user, shape1 loop 0 100
+04/20/22:21:07:17, Command, default_user, reset
+04/20/22:21:12:38, Command, default_user, reset
+04/20/22:21:12:42, Command, default_user, add synth c3
+04/20/22:21:12:50, Command, default_user, reset
+04/20/22:21:12:51, Command, default_user, tracks
+04/20/22:21:12:54, Command, default_user, help
+04/20/22:21:20:15, Command, default_user, 
+04/20/22:21:20:17, Command, default_user, 
+04/20/22:21:20:19, Command, default_user, 
+04/20/22:21:23:19, Log, @System, MidiBot initated
+04/20/22:21:23:19, Log, @System, Settings files loaded successfully
+04/20/22:21:23:20, Command, default_user, help
+04/20/22:21:23:58, Command, default_user, reset
+04/20/22:21:49:09, Log, @System, MidiBot initated
+04/20/22:21:49:09, Log, @System, Settings files loaded successfully
+04/20/22:21:49:12, Command, default_user, 
+04/20/22:21:49:15, Command, default_user,  
+04/20/22:21:49:17, Command, default_user,    res
+04/20/22:21:49:19, Command, default_user, res
+04/20/22:21:49:21, Command, default_user, res 90
+04/20/22:21:49:22, Command, default_user, reset
+04/20/22:21:49:25, Command, default_user, res 0 90
+04/20/22:21:49:33, Command, default_user, res 0 90 100 90 0 90 50 0 10 0
+04/20/22:21:50:36, Command, default_user, res loop
+04/20/22:21:50:38, Command, default_user, res loop 
+04/20/22:21:50:42, Command, default_user, res loop $
+04/20/22:21:50:49, Command, default_user, res loop $cmajor 0
+04/20/22:21:50:57, Command, default_user, add synth $cmajor
+04/20/22:21:51:00, Command, default_user, add synth $fmajor
+04/20/22:21:51:05, Command, default_user, add synth cdefg
+04/20/22:21:51:07, Command, default_user, reset
+04/27/22:00:26:49, Log, @System, MidiBot initated
+04/27/22:00:26:49, Log, @System, Settings files loaded successfully
+04/27/22:00:27:11, Command, default_user, add synth c3
+04/27/22:00:27:17, Command, default_user, reset
+04/27/22:00:27:25, Command, default_user, add synth c-d-a
+04/27/22:00:27:39, Command, default_user, reset
+04/27/22:00:27:47, Command, default_user, choice synth $cmajor
+04/27/22:00:27:50, Command, default_user, reset
+04/27/22:00:27:54, Command, default_user, choice synth $c
+04/27/22:00:27:57, Command, default_user, reset
+04/27/22:00:28:02, Command, default_user, choice synth $cmajorscale
+04/27/22:00:28:21, Command, default_user, choice synth c3 d3 e3 a3 b3
+04/27/22:00:28:24, Command, default_user, reset

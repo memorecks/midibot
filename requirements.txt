@@ -1,0 +1,4 @@
+isobar==0.1.1
+mido==1.2.10
+python-osc==1.8.0
+python-rtmidi==1.4.9
