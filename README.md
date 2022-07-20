@@ -5,7 +5,7 @@ This takes text commands and makes a MIDI device to output the messages to your 
 
 Initially intended to function with a twitch/IRC bot for multi-user interactivity.
 
-To run, install requirements.txt and run. Currently operates from Terminal with no UI.
+To run, install requirements.txt and run midibot/midibot.py. 
 
 The function 'recieve_message' will take a command string, and if valid, send the relevant MIDI message. It will also return a string with relevant information to pass back to the user.
 
