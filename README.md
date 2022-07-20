@@ -5,4 +5,17 @@ This takes text commands and makes a MIDI device to output the messages to your 
 
 Initially intended to function with a twitch/IRC bot for multi-user interactivity.
 
+The function 'recieve_message' will take a command string, and if valid, send the relevant MIDI message. It will also return a string with relevant information to pass back to the user.
+
 Commands and Track Names are defined in the .ini files within /settings
+
+Pre-defined Commands:
+    Sequencer:
+    !add <track> <sequence>
+    !replace <track> <sequence>
+    !choice <track> <sequence>
+    !rand <track> <sequence>
+    !apend <track> <sequence>
+    !clear or !reset
+    !bpm <value>
+    !help
