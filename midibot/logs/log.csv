@@ -877,3 +877,5 @@
 04/27/22:00:28:02, Command, default_user, choice synth $cmajorscale
 04/27/22:00:28:21, Command, default_user, choice synth c3 d3 e3 a3 b3
 04/27/22:00:28:24, Command, default_user, reset
+07/20/22:15:39:43, Log, @System, MidiBot initated
+07/20/22:15:39:43, Log, @System, Settings files loaded successfully

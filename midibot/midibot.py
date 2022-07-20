@@ -1,6 +1,6 @@
 # Text to MIDI parser
 #   by memorecks and boomninjavanish
-#   2022
+#    July 20 2022
 
 # pip install git+https://github.com/ideoforms/isobar.git
 # ^ make sure to install from git because there are new features we need
@@ -53,7 +53,7 @@ class MidiBot:
     def __init__(self):
         self.log('MidiBot initated')
         # Create the MIDI output device and Timeline object
-        self.midi_output = iso.MidiOutputDevice(device_name='tpts MIDI', virtual=True)
+        self.midi_output = iso.MidiOutputDevice(device_name='midibot', virtual=True)
         self.timeline = iso.Timeline(tempo=120,output_device=self.midi_output)
         # We should be giving isobar clean values, and handle all exceptions before it
         # So let's live dangerously and ignore exceptions
