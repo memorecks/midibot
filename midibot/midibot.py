@@ -2,18 +2,6 @@
 #   by memorecks and boomninjavanish
 #    July 20 2022
 
-# pip install git+https://github.com/ideoforms/isobar.git
-# ^ make sure to install from git because there are new features we need
-
-# I am now using venv for this, but from my reading you are not supposed to put that on github
-
-# Updates:
-# - !replace will replace all notes on specified track
-# - macros now save and load from csv file
-# - CC commands now interpolated by default after the first loop command
-# - Looped CC commands will now replace any existing ones
-# - Error catching complete, can't find a command that will except/crash
-
 import isobar as iso
 import configparser
 import csv
