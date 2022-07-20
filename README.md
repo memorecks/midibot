@@ -11,11 +11,11 @@ Commands and Track Names are defined in the .ini files within /settings
 
 Pre-defined Commands:
     Sequencer:
-    !add <track> <sequence>
-    !replace <track> <sequence>
-    !choice <track> <sequence>
-    !rand <track> <sequence>
-    !apend <track> <sequence>
+    !add [track name] [sequence]
+    !replace [track name] [sequence]
+    !choice [track name] [sequence]
+    !rand [track name] [sequence]
+    !apend [track name] [sequence]
     !clear or !reset
-    !bpm <value>
+    !bpm [value]
     !help
