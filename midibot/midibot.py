@@ -2,6 +2,8 @@
 #   by memorecks and boomninjavanish
 #    July 20 2022
 
+# TODO: Currently, Track MIDI channels are 0-15.. perhaps range should be 1-16 for the user
+
 import isobar as iso
 import configparser
 import csv
