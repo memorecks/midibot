@@ -9,7 +9,7 @@ To run, install requirements.txt and run midibot/midibot.py.
 
 The function 'recieve_message' will take a command string, and if valid, send the relevant MIDI message. It will also return a string with relevant information to pass back to the user.
 
-Commands and Track Names are defined in the .ini files within /settings
+Commands and Track Names are defined in the .ini files within /settings - this is where you define your MIDI mappings for CCs and tracks.
 
 Pre-defined Commands:
 
