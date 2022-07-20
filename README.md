@@ -10,12 +10,21 @@ The function 'recieve_message' will take a command string, and if valid, send th
 Commands and Track Names are defined in the .ini files within /settings
 
 Pre-defined Commands:
+
     Sequencer:
+
     !add [track name] [sequence]
+
     !replace [track name] [sequence]
+
     !choice [track name] [sequence]
+
     !rand [track name] [sequence]
+
     !apend [track name] [sequence]
+
     !clear or !reset
+
     !bpm [value]
+    
     !help
