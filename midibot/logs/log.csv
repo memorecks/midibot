@@ -879,3 +879,12 @@
 04/27/22:00:28:24, Command, default_user, reset
 07/20/22:15:39:43, Log, @System, MidiBot initated
 07/20/22:15:39:43, Log, @System, Settings files loaded successfully
+09/06/22:00:19:24, Log, @System, MidiBot initated
+09/06/22:00:19:24, Log, @System, Settings files loaded successfully
+09/06/22:00:19:33, Command, default_user, reverb 100
+09/06/22:00:22:31, Log, @System, MidiBot initated
+09/06/22:00:22:32, Log, @System, Settings files loaded successfully
+09/06/22:00:22:35, Command, default_user, reverb 100
+09/06/22:00:22:53, Log, @System, MidiBot initated
+09/06/22:00:22:54, Log, @System, Settings files loaded successfully
+09/06/22:00:22:56, Command, default_user, reverb 100

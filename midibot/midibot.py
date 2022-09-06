@@ -2,6 +2,9 @@
 #   by memorecks and boomninjavanish
 #    July 20 2022
 
+# Please install isobar from git, or you will get error
+# pip install git+https://github.com/ideoforms/isobar.git
+
 # TODO: Currently, Track MIDI channels are 0-15.. perhaps range should be 1-16 for the user
 
 import isobar as iso
